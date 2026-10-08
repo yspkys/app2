@@ -1,0 +1,7 @@
+{
+  "name": "지역 보도자료 초안 생성기",
+  "description": "지자체 공무원을 위한 보도자료 초안 및 제목·목차 자동 생성기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
